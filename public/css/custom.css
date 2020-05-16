@@ -1,0 +1,60 @@
+body{
+	margin: 0;
+	background-color: #fafafa;
+	font-size: 14px;
+	line-height: 20px;
+}
+a{
+	font-family: sans-serif;
+	color: #4990E2;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: "Open Sans", sans-serif;
+	font-weight: 400;
+}
+h1{ font-size: 30px; }
+h2{ font-size: 24px; }
+h3{ font-size: 20px; }
+h4{ font-size: 18px; }
+h5{ font-size: 16px; }
+h6{ font-size: 14px; }
+
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.row {
+	display: block;
+	width: 100%;
+}
+.col {
+	width: 50%;
+	float: left;
+}
+.header{
+	background-color: #313131;
+	padding: 15px;
+	overflow: hidden;
+}
+.content{
+	padding: 15px;
+	overflow: hidden;	
+}
+.title{
+	font-size: 20px;
+	font-weight: 400;
+	color: #ffffff;
+}
+.footer{	
+	margin-top:  100px;
+	margin-bottom: 20px
+}
+.center{
+	text-align: center;
+}
+#swagger-ui .download-url-wrapper{
+	display: none;
+}
+/* Writen by Malthesh-ls*/

@@ -1,0 +1,29 @@
+{
+  "name": "simple-swagger-ui",
+  "version": "1.0.0",
+  "description": "Simple Openapi(swagger) ui is visualize the documentation in ui represention",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malthesh-ls/simple-swagger-ui.git"
+  },
+  "keywords": [
+    "simple",
+    "swagger",
+    "ui",
+    "swaggerui",
+    "openapi",
+    "api",
+    "contact"
+  ],
+  "author": "malthesh.ls",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "swagger-ui-express": "^4.1.4",
+    "yamljs": "^0.3.0"
+  }
+}
